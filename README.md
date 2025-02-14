@@ -6,3 +6,4 @@
 - [Уровень_2 Знакомство с типами и ввод с клавиатуры](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_2)
 - [Уровень_3 Условный оператор](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_3)
 - [Уровень_5 Циклы](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_5)
+- [Уровень_6 Массивы](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_6)

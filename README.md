@@ -9,3 +9,4 @@
 - [Уровень_6 Массивы](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_6)
 - [Уровень_7 Многомерные массивы](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_7)
 - [Уровень_8 Методы](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_8)
+- [Уровень_9 Работа со строками](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_9)

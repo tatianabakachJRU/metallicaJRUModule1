@@ -10,3 +10,6 @@
 - [Уровень_7 Многомерные массивы](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_7)
 - [Уровень_8 Методы](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_8)
 - [Уровень_9 Работа со строками](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_9)
+
+## Факультативы
+- [Факультатив_1 Объяснение задач, написание Квеста с использованием пройденного материала](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/elective_1)

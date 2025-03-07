@@ -11,6 +11,7 @@
 - [Уровень_8 Методы](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_8)
 - [Уровень_9 Работа со строками](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_9)
 - [Уровень_11 Типы данных. Знакомство с ООП](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_11)
+- [Уровень_12 Объекты](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_12)
 
 ## Факультативы
 - [Факультатив_1 Объяснение задач, написание Квеста с использованием пройденного материала](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/elective_1)

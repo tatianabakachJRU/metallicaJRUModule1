@@ -14,6 +14,7 @@
 - [Уровень_12 Объекты](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_12)
 - [Уровень_13 Классы и static](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_13)
 - [Уровень_15 Списки и Generic](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_15)
+- [Уровень_16 Коллекции Set](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_16)
 
 ## Факультативы
 - [Факультатив_1 Объяснение задач, написание Квеста с использованием пройденного материала](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/elective_1)

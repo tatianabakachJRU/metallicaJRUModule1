@@ -10,6 +10,7 @@ public class IteratorExample_2 {
         dogs.add("Rex");
         dogs.add("Bobik");
         dogs.add("Barny");
+        dogs.add("Barny");
 
         Iterator<String> iterator = dogs.iterator();
 
@@ -20,14 +21,10 @@ public class IteratorExample_2 {
 
         iterator = dogs.iterator();
 
-        for (int i = 0; i < dogs.size(); i++) {
-            System.out.println();
-        }
-
         while (iterator.hasNext()) {
             String next = iterator.next();
             if (next.equals("Bobik")) {
-                iterator.remove();
+                dogs.remove("Bobik");
             }
         }
         System.out.println(dogs);

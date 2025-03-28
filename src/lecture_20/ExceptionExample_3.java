@@ -1,0 +1,29 @@
+package lecture_20;
+
+public class ExceptionExample_3 {
+    public static void main(String[] args) {
+        methodWhereExceptionExpected(10, 0);
+        System.out.println("Hello Metallica");
+    }
+
+    public static void methodWhereExceptionExpected(int a, int b) {
+        try {
+            String str = null;
+            System.out.println(str.length()); // NullPointerException
+            int number = Integer.parseInt("abc"); // NumberFormatException
+            System.out.println("Before exception");
+            int result = a / b; // ArithmeticException
+            System.out.println("Result: " + result);
+            System.out.println("After exception");
+        } catch (NullPointerException e) {
+            System.out.println("catch2: Exception caught: Null Pointer Exception");
+        } catch (Exception exception) {
+            System.out.println(exception.getMessage());
+        } catch (Throwable e) {
+            System.out.println("Throwable");
+        } finally {
+            System.out.println("finally: Will be executed in any case");
+        }
+    }
+
+}

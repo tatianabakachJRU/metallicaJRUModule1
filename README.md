@@ -18,6 +18,7 @@
 - [Уровень_17 Коллекции Map](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_17)
 - [Уровень_19 Singlton, enum, switch](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_19)
 - [Уровень_20 Exception (часть 1)](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_20)
+- [Уровень_21 Exception (часть 2)](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_21)
 
 ## Факультативы
 - [Факультатив_1 Объяснение задач, написание Квеста с использованием пройденного материала](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/elective_1)

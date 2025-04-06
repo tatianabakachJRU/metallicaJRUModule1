@@ -1,0 +1,3 @@
+Hello, Buffered Writer!!!
+This line is written using Buffered Writer!!!
+This number is: 42

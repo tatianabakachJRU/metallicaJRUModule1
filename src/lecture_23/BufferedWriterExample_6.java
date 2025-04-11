@@ -1,9 +1,12 @@
 package lecture_23;
 
+import lombok.Data;
+
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 
+@Data
 public class BufferedWriterExample_6 {
     public static void main(String[] args) {
         String outputFle = "outputBW.txt";

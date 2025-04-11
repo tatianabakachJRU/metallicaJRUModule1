@@ -20,6 +20,7 @@
 - [Уровень_20 Exception (часть 1)](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_20)
 - [Уровень_21 Exception (часть 2)](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_21)
 - [Уровень_23 Потоки ввода-вывода (часть 1)](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_23)
+- [Уровень_24 Потоки ввода-вывода (часть 2)](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_24)
 
 ## Факультативы
 - [Факультатив_1 Объяснение задач, написание Квеста с использованием пройденного материала](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/elective_1)

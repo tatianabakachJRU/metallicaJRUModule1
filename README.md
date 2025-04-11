@@ -24,3 +24,4 @@
 
 ## Факультативы
 - [Факультатив_1 Объяснение задач, написание Квеста с использованием пройденного материала](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/elective_1)
+- [Факультатив_2 Написание Проекта "Рецепты" с использованием пройденного материала(Коллекции, Исключения, Потоки ввода-вывода)](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/elective_2)

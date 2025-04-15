@@ -21,7 +21,8 @@
 - [Уровень_21 Exception (часть 2)](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_21)
 - [Уровень_23 Потоки ввода-вывода (часть 1)](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_23)
 - [Уровень_24 Потоки ввода-вывода (часть 2)](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_24)
-
+- [Уровень_25 Работа с датой и временем](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/lecture_25)
+H
 ## Факультативы
 - [Факультатив_1 Объяснение задач, написание Квеста с использованием пройденного материала](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/elective_1)
 - [Факультатив_2 Написание Проекта "Рецепты" с использованием пройденного материала(Коллекции, Исключения, Потоки ввода-вывода)](https://github.com/tatianabakachJRU/metallicaJRUModule1/tree/main/src/elective_2)
